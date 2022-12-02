@@ -60,11 +60,11 @@ Navigating to **Administration \ Configuration \ Content authoring \ Honeypot co
 
 ## Antibot
 
-**Antibot** is a module that comes installed with Varbase to protect **Webforms** from being submitted by robots. This is achieved by forcing the users to have javascript enabled to be able to see and submit the form. While providing a free-captcha experience.
+**Antibot** is a module that comes installed with Varbase to protect any form on your site from being submitted by robots. This is achieved by forcing the users to have javascript enabled to be able to see and submit the form. While providing a free-captcha experience.
 
 ### Enabling Antibot
 
-In Varbase, **Antibot** is enabled to protect all webforms by default, this can be seen in the **Webforms** configurations page.
+In Varbase, **Antibot** is enabled to protect all *webforms* povided by the [Webform module](https://](https://www.drupal.org/project/webform). This can be seen in the **Webforms** configurations page.
 
 * Navigate to **Adminstration \ Structure \ Webform \ **_**Configuration**_&#x20;
 * Check **Third party settings** section&#x20;
